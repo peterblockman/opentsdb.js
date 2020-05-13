@@ -35,7 +35,7 @@
     "opentsdb-client": "0.0.4",
     "opentsdb-datum": "~1.0.0",
     "opentsdb-mquery": "~0.0.1",
-    "opentsdb-query": "git+https://x-oauth-basic@github.com/neukind/opentsdb-query.git",
+    "opentsdb-query": "github:vietvu-nguyen/opentsdb-query",
     "opentsdb-socket": "~0.0.2",
     "opentsdb-tquery": "~0.0.2",
     "opentsdb-validate-time": "~0.0.1"
@@ -44,7 +44,7 @@
     "chai": "1.x.x",
     "coveralls": "^2.11.1",
     "istanbul": "^0.3.0",
-    "mocha": "1.x.x"
+    "mocha": "^7.1.2"
   },
   "license": "MIT"
 }
