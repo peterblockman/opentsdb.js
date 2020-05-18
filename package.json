@@ -32,7 +32,7 @@
     "socket"
   ],
   "dependencies": {
-    "opentsdb-client": "0.0.4",
+    "opentsdb-client": "github:vietvu-nguyen/opentsdb-client",
     "opentsdb-datum": "~1.0.0",
     "opentsdb-mquery": "~0.0.1",
     "opentsdb-query": "github:vietvu-nguyen/opentsdb-query",
@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "chai": "1.x.x",
-    "coveralls": "^2.11.1",
+    "coveralls": "^3.1.0",
     "istanbul": "^0.3.0",
     "mocha": "^7.1.2"
   },
