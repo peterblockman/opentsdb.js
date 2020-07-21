@@ -32,10 +32,10 @@
     "socket"
   ],
   "dependencies": {
-    "opentsdb-client": "github:vietvu-nguyen/opentsdb-client",
+    "opentsdb-client": "github:peterblockman/opentsdb-client",
     "opentsdb-datum": "~1.0.0",
     "opentsdb-mquery": "~0.0.1",
-    "opentsdb-query": "github:vietvu-nguyen/opentsdb-query",
+    "opentsdb-query": "github:peterblockman/opentsdb-query",
     "opentsdb-socket": "~0.0.2",
     "opentsdb-tquery": "~0.0.2",
     "opentsdb-validate-time": "~0.0.1"
